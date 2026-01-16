@@ -1,2 +1,3 @@
 SourceFile,TargetFile,IsActive,IncrementalColumn,PrimaryKey
-Sales.csv,Sales,Y,LastUpdated,InvoiceID
+
+sales.csv,sales,Y,LastUpdated,InvoiceID
