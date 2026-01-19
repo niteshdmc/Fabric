@@ -1,3 +1,4 @@
 SourceFile,SourcePath,Format,TargetTable,IsActive,IncrementalColumn,PrimaryKey
-sales.csv,Files/raw/sales/sales.csv,csv,sales_curated,Y,LastUpdated,InvoiceID
+sales,Files/bronze_ingestion/Sales,Parquet,sales_curated,Y,LastUpdated,InvoiceID
+
 
